@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">StormDaily</string>
+    <string name="city">Minsk</string>
+    <string name="tempoutside"> 14°</string>
+    <string name="weatherstatus_cloudy">Cloudy right now</string>
+    <string name="time_now">17:00</string>
+    <string name="time_now_plus_1H">18:00</string>
+    <string name="time_now_plus_2H">19:00</string>
+    <string name="time_now_plus_3H">20:00</string>
+    <string name="time_now_plus_4H">21:00</string>
+    <string name="time_now_plus_5H">22:00</string>
+    <string name="time_now_plus_6H">23:00</string>
+    <string name="time_now_plus_7H">00:00</string>
+    <string name="temp_today_day">14°</string>
+    <string name="temp_today_night">6°</string>
+    <string name="temp_now_plus_1D_day">13°</string>
+    <string name="temp_now_plus_1D_night">5°</string>
+    <string name="temp_now_plus_2D_day">14°</string>
+    <string name="temp_now_plus_2D_night">7°</string>
+    <string name="temp_now_plus_3D_day">15°</string>
+    <string name="temp_now_plus_3D_night">6°</string>
+    <string name="temp_now_plus_4D_day">12°</string>
+    <string name="temp_now_plus_4D_night">4°</string>
+    <string name="temp_now_plus_5D_day">13°</string>
+    <string name="temp_now_plus_5D_night">5°</string>
+    <string name="temp_now_plus_6D_day">16°</string>
+    <string name="temp_now_plus_6D_night">9°</string>
+    <string name="temp_now">14°</string>
+    <string name="temp_now_plus1H">13°</string>
+    <string name="temp_now_plus2H">13°</string>
+    <string name="temp_now_plus3H">12°</string>
+    <string name="temp_now_plus4H">11°</string>
+    <string name="temp_now_plus5H">10°</string>
+    <string name="temp_now_plus6H">8°</string>
+    <string name="temp_now_plus7H">6°</string>
+    <string name="day_of_the_week_sunday">Sunday</string>
+    <string name="today">today</string>
+    <string name="today_plus_1D">Monday</string>
+    <string name="today_plus_2D">Tuesday</string>
+    <string name="today_plus_3D">Wednesday</string>
+    <string name="today_plus_4D">Thursday</string>
+    <string name="today_plus_5D">Friday</string>
+    <string name="today_plus_6D">Saturday</string>
+    <string name="open_weather_map_app_id">6281ac24452719a823176e49b8d6aeb4</string>
+
+</resources>
